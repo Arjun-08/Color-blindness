@@ -72,4 +72,5 @@ The analysis outputs:
 ## Conclusion
 The analysis reveals that **Config3** has the highest probability among the configurations, suggesting it as the most likely cause of color blindness. The study provides insights into gene configurations and their association with this genetic condition.
 
-
+## Contact
+If you have any questions or suggestions, please feel free to reach out to me at nvarjunmani07@gmail.com.
